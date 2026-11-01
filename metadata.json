@@ -1,0 +1,6 @@
+{
+  "name": "REDROOM — Premium Digital Marketplace",
+  "description": "Premium customer-facing marketplace for digital cards, prepaid solutions, and secure online accounts with real-time balance, instant delivery, and crypto deposits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
